@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "gchartrb"
-  s.version = "0.9"
+  s.version = "1.0"
   s.authors = ["Deepak Jois"]
   s.email = "deepak.jois@gmail.com"
   s.date = "2008-06-16"
